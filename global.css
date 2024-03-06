@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-istok-web: "Istok Web";
+    --font-inria-sans: "Inria Sans";
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-11xl: 30px;
+    --font-size-lg: 18px;
+    --font-size-base: 16px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-darkgray: #b3b3b3;
+    --color-darkslateblue: #0f4f96;
+    --color-steelblue: #3675bd;
+    --color-darkslategray: #373737;
+    --color-gainsboro-100: #ddd;
+    --color-gainsboro-200: #d9d9d9;
+    --color-dimgray: #515151;
+  
+    /* Gaps */
+    --gap-7xs: 6px;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-9xs: 4px;
+    --padding-3xs: 10px;
+    --padding-2xs: 11px;
+  
+    /* Border radiuses */
+    --br-base: 16px;
+    --br-mini: 15px;
+  }
+  
